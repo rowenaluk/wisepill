@@ -1,0 +1,25 @@
+<data xmlns="http://www.commcarehq.org/wisepill/patient">
+    <meta xmlns="http://openrosa.org/jr/xforms">
+        <instanceID>PYV0ULC6SOXE5LR20F2CWBAG2</instanceID>
+        <timeStart>2013-02-21T10:37:06Z</timeStart>
+        <timeEnd>2013-02-21T10:38:14Z</timeEnd>
+        <userID>b50e99f66c72c24f305d0e245cd929f9</userID>
+    </meta>
+    <case xmlns="http://commcarehq.org/case/transaction/v2" case_id="3F2504E04F8911D39A0C0305E82C3302" user_id="b50e99f66c72c24f305d0e245cd929f9" date_modified="2013-02-21T10:38:14" >
+        <create>
+	        <case_type>contact</case_type>
+	        <case_name>contact1</case_name>
+	        <owner_id>b50e99f66c72c24f305d0e245cd929f9</owner_id>
+        </create>
+        <update>
+	        <contact_phone_number>16477052576</contact_phone_number>
+	        <contact_phone_number_is_verified>1</contact_phone_number_is_verified>
+	        <contact_backend_id>MOBILE_BACKEND_YO</contact_backend_id>
+	        <time_zone>Africa/Kampala</time_zone>
+	        <email>contact1@contact.com</email>
+        </update>
+        <index>
+            <wisepill_user_case case_type="patient">3F2504E04F8911D39A0C0305E82C3301</wisepill_user_case>
+        </index>
+       </case>
+</data>
